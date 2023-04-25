@@ -20,6 +20,9 @@ body {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
+  }
+  
+  .main-select{
     margin-bottom: 20px;
   }
   
@@ -61,6 +64,9 @@ body {
   
   button[type="submit"] {
     background-color: #008CBA;
+    display: block;
+    width: 60%;
+    margin: 0 auto;
     margin-top: 20px;
   }
   
